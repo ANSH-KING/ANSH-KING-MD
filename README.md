@@ -129,7 +129,7 @@ mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=maj
 
 <br>
 
-<p align="left"><a href="https://repl.it/github/SILENTLOVER4/SILENT-SOBX-MD"> <img src="https://img.shields.io/badge/Deploy%20To%20Replit-gray?style=for-the-badge&logo=replit" height="25"/></a></p>
+<p align="left"><a href="https://repl.it/github/ANSH-KING/ANSH-KING-MD"> <img src="https://img.shields.io/badge/Deploy%20To%20Replit-gray?style=for-the-badge&logo=replit" height="25"/></a></p>
 
 ### <br>   ❖ DEPLOY_KOYEB ❖
 
@@ -146,7 +146,7 @@ mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=maj
 <br>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
-
+A1
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
