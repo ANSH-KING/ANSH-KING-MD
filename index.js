@@ -96,7 +96,7 @@ https://youtube.com/@anshtechie?si=coZwNbLOHs5NgHQ2🔰
 │✫➠ - *📂REPOSITORY NAME:* ANSH-KING-MD
 │✫➠ - *📃DESCRIPTION:* ❁ᴡᴏʀʟᴅ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ❁
 │✫➠ - *🛡️OWNER:* ᴀɴꜱʜ ʟᴏᴠᴇʀ⁷⁰²
-│✫➠ - *🌐 URL:* https://github.com/ANSH-KING/ANSH-KINH-MD
+│✫➠ - *🌐 URL:* https://github.com/ANSH-KING/ANSH-KING-MD
 ╰━━━━━━━━━━━━━━━━━╯
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\nPREFIX: ${prefix}`;
